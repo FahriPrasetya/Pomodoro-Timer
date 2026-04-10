@@ -95,7 +95,6 @@ function App() {
             Reset
           </button>
         </div>
-
       </div>
     </div>
   )
